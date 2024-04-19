@@ -1,5 +1,5 @@
 {
-  "name": "et778-fullstack-backend",
+  "name": "aa090-fullstack-backend",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.19.2"
   }
 }
